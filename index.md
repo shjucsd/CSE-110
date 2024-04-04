@@ -1,6 +1,6 @@
 # Shravi's User Page
 
-! [my picture] (/assets/mypic.png)
+![my picture](/assets/mypic.png)
 
 One of my favorite quotes:
 > Keep your eyes on the stars and feet on the ground
