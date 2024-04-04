@@ -13,8 +13,8 @@ One of my favorite quotes is:
 
 Contents:
 - [Background](#Background)
-- Interests
-- My involvement beyond classes
+- [Interests](#Interests)
+- [My involvement beyond classes](#Involvement Beyond Classes)
 
 ## Background
 
