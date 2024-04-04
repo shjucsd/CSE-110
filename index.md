@@ -38,8 +38,16 @@ I am one of the Software leads in CSES and currently leading an opensource proje
 
 ## CSE Classes which I have taken at UCSD
 
-- [x] Add delight to the experience when all tasks are complete
-
+- [x] 8A/8B
+- [x] 12
+- [x] 15L
+- [x] 20
+- [x] 21
+- [x] 30
+- [x] 100
+- [x] 105
+- [ ] 101 (currently taking)
+- [ ] 110 (currently taking)
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/shravi-jain-aa9395238)
 
