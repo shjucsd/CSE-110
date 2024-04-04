@@ -28,10 +28,12 @@ I love reading mystery thrillers. One of my favorites is Agatha Christie's 'And 
 
 ## Involvement Beyond Classes
 
-1. Women In Computing
+1. **Women In Computing**
+
 I am a board member of Women In Computing. We organize different types of events like technical development, social and professional events to promote women in tech industry.
 
-2. CSES Open Source
+2. **CSES Open Source**
+
 I am one of the Software leads in CSES and currently leading an opensource project called TritonScript which will be a platform for UCSD students to log in and upload notes of different classes and keep track of different events at a single place. 
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/shravi-jain-aa9395238)
