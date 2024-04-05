@@ -31,7 +31,7 @@ I love reading mystery thrillers. One of my favorites is Agatha Christie's 'And 
 
 ## Involvement Beyond Classes
 
-1. **Women In Computing**
+1. **Women In Computing** 
 
 I am a board member of Women In Computing. We organize different types of events like technical development, social and professional events to promote women in tech industry.
 
