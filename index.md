@@ -1,6 +1,6 @@
 # Shravi's User Page
 
-<img src="/assets/mypic.png" width="200">
+<img src="/assets/mypic.png" width="200"> </img>
 
 ```
 Hello CSE 110 World!!
@@ -12,10 +12,10 @@ One of my favorite quotes is:
 > "Keep your eyes on the stars and feet on the ground"
 
 Contents:
-- [Background](#Background)
-- [Interests](#Interests)
-- [My involvement beyond classes](#Involvement-Beyond-Classes)
-- [CS@UCSD](#CS@UCSD)
+- [Background](#background)
+- [Interests](#interests)
+- [My involvement beyond classes](#involvementbeyondclasses)
+- [CS@UCSD](#csucsd)
 
 ## Background
 
@@ -25,7 +25,7 @@ I am an international student from India. I am looking forward to build a strong
 
 I love reading mystery thrillers. One of my favorites is Agatha Christie's 'And Then There Were None'. Some of my comfort shows are Friends, B99, Modern Family and Gilmore Girls. I love taking pictures of nature. Here's a picture of a sunset at Sunset Cliffs in San Diego.
 
-<img src="/assets/sunset.png" width="300">
+<img src="/assets/sunset.png" width="300"> </img>
 
 [You can check out few more pictures by clicking here](/sun.md)
 
