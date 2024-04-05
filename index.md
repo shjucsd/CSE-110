@@ -1,6 +1,6 @@
 # Shravi's User Page
 
-<img src="/assets/mypic.png" width="200"> </img>
+![]("/assets/mypic.png" width="200")
 
 ```
 Hello CSE 110 World!!
