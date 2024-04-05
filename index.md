@@ -36,7 +36,7 @@ I love reading mystery thrillers. One of my favorites is Agatha Christie's 'And 
 
 ## CS@UCSD
 
-[x] 8A/8B
+- [x] 8A/8B
 - [x] 12
 - [x] 15L
 - [x] 20
