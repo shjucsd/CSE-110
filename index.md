@@ -15,6 +15,7 @@ Contents:
 - [Background](#Background)
 - [Interests](#Interests)
 - [My involvement beyond classes](#Involvement-Beyond-Classes)
+- [CS@UCSD](#CS@UCSD)
 
 ## Background
 
@@ -36,7 +37,7 @@ I am a board member of Women In Computing. We organize different types of events
 
 I am one of the Software leads in CSES and currently leading an opensource project called TritonScript which will be a platform for UCSD students to log in and upload notes of different classes and keep track of different events at a single place. 
 
-## CSE Classes which I have taken at UCSD
+## CS@UCSD
 
 - [x] 8A/8B
 - [x] 12
