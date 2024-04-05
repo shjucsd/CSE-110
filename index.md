@@ -1,6 +1,6 @@
 # Shravi's User Page
 
-![]("/assets/mypic.png" width="200")
+![](/assets/mypic.png)
 
 ```
 Hello CSE 110 World!!
