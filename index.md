@@ -27,6 +27,8 @@ I love reading mystery thrillers. One of my favorites is Agatha Christie's 'And 
 
 <img src="/assets/sunset.png" width="300">
 
+[You can check out few more by clicking here](/sun.md)
+
 ## Involvement Beyond Classes
 
 1. **Women In Computing**
