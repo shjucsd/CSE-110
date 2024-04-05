@@ -14,7 +14,7 @@ One of my favorite quotes is:
 Contents:
 - [Background](#background)
 - [Interests](#interests)
-- [My involvement beyond classes](#involvementbeyondclasses)
+- [My involvement beyond classes](#involvement-beyond-classes)
 - [CS@UCSD](#csucsd)
 
 ## Background
