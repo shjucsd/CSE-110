@@ -6,7 +6,7 @@
 Hello CSE 110 World!!
 ```
 
-I am a **sophomore** majoring in *Computer Science* at Revelle College.
+I am a **sophomore** majoring in *Computer Science* at Revelle College<sub> UCSD </sub>.
 
 One of my favorite quotes is:
 > "Keep your eyes on the stars and feet on the ground"
